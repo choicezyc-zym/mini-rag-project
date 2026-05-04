@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+
+.DS_Store
+.idea/
+.vscode/
+
+outputs/*.pkl
+outputs/*.jsonl
+outputs/*.txt

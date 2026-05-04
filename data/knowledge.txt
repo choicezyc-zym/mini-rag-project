@@ -1,0 +1,35 @@
+Machine learning is a field of AI that learns patterns from data.
+Classification predicts categories such as pass or fail.
+Regression predicts continuous values such as house prices.
+
+Neural networks are a type of machine learning model with stronger representation ability.
+Loss measures how wrong the model is.
+Epoch means one full pass over the training data.
+Batch means one small group of training samples.
+
+CNN is a neural network commonly used for image tasks.
+Convolution layers extract local features.
+Pooling layers reduce feature size and keep important information.
+Deeper CNN models can learn more complex features.
+
+Transformer is based on self-attention.
+Attention helps the model focus on the most relevant parts of the input.
+Query, Key, and Value are used to compute attention.
+Multi-head attention allows the model to learn from multiple perspectives.
+
+LLM is mainly trained with next-token prediction.
+Pretraining gives the model general language ability.
+Fine-tuning helps the model adapt to specific tasks.
+RAG means retrieval-augmented generation.
+RAG first retrieves relevant information and then generates an answer based on that information.
+
+Agent is different from a normal LLM.
+A normal LLM mainly answers questions.
+An agent can break down tasks, use tools, and execute multiple steps.
+
+LLM means Large Language Model.
+An LLM is a large neural network trained on massive amounts of text data.
+It can understand and generate human language.
+LLMs are usually trained with next-token prediction.
+Pretraining gives the model general language ability.
+Fine-tuning helps the model adapt to specific tasks.
