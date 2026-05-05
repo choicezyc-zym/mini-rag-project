@@ -255,3 +255,13 @@ It shows how retrieval and generation can be combined to answer questions based 
 ## Current Version
 
 This project is now a complete minimal local RAG system with semantic retrieval, dynamic chunk filtering, local LLM generation, source citation, multi-turn interaction, and query history logging.
+
+## Highlights
+
+- Built a complete minimal RAG pipeline from document chunking to LLM-based answer generation.
+- Used Sentence Transformers to convert text chunks and user queries into semantic embeddings.
+- Applied cosine similarity to retrieve the most relevant chunks from the local knowledge base.
+- Added dynamic similarity filtering to reduce weakly related or irrelevant context.
+- Integrated Ollama with Qwen2.5 for local LLM answer generation.
+- Added source citation to show which chunks were used to generate the answer.
+- Added JSONL-based query history logging for debugging and future analysis.
